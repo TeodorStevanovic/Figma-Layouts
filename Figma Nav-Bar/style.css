@@ -1,0 +1,140 @@
+* {
+  text-decoration: none;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #808080;
+}
+
+/*---Nav One--*/
+.navbar-one {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.logo-one {
+  font-weight: bold;
+  font-size: 20px;
+}
+.links-one {
+  display: flex;
+  gap: 2rem;
+}
+
+.signup-one {
+  width: 100px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  border-radius: 5px;
+}
+/*------------*/
+
+/*---Nav Two---*/
+.navbar-two {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.logo-two {
+  font-weight: bold;
+  font-size: 20px;
+}
+.links-two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.signup-two {
+  width: 100px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  border-radius: 5px;
+}
+/*------------*/
+
+.navbar-three {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.logo-three {
+  font-weight: bold;
+  font-size: 20px;
+}
+.links-three {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.signup-three {
+  width: 100px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  text-decoration: none;
+  text-align: center;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+}
+
+
+.navbar-four {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.logo-four {
+  margin-right: 12rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+.links-four {
+  display: flex;
+  gap: 2rem;
+}
+
+.signup-four {
+  width: 100px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  text-decoration: none;
+  text-align: center;
+  font-size: 15px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+}
